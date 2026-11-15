@@ -1,15 +1,13 @@
 # Lab 4 — Active Reconnaissance (Footprinting)
 
-Name: <!-- ✏️ your full name -->
-Class: <!-- ✏️ your class -->
-Course: System Hacking — Reconnaissance & Footprinting
-Date: 16 November 2026
+Name: MUHAMMAD AZIM DANIAL BIN NOR HALIM
+Group : L01-B03
 
 ## Scope
 
 I only scanned my own vulnerable machine at home. I did not scan any real
 website. Both machines are on a private Host-Only network, so nothing goes
-outside. I only did footprinting. I did not exploit anything.
+outside.
 
 ## 1. Target Setup (Victim)
 
