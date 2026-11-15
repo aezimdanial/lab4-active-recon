@@ -2,7 +2,7 @@
 
 Name: MUHAMMAD AZIM DANIAL BIN NOR HALIM
 
-Group : L01-B03
+Group: L01-B03
 
 ## Scope
 
@@ -67,7 +67,7 @@ Findings:
 What it means:
 
 The website works on both HTTP and HTTPS. The software is very old (around 2008).
-This means the server is outdated and may have known weakness.
+This means the server is outdated and may have known weaknesses.
 
 Limitations:
 
